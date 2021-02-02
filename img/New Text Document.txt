@@ -1,0 +1,14 @@
+/*var text = "Hello";
+var num = 21;
+var bool = true;
+var nul = null;
+var una ;
+console.log(text);
+console.log(num);
+console.log(bool);
+console.log(nul);
+console.log(una);*/
+/*var array1 = ["hello",21,true,null];
+array1.push("abcdef");
+array1.pop();
+console.log(array1);*/
